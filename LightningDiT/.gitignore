@@ -1,0 +1,11 @@
+submit_*
+demo_img/*
+output/*
+tensorboard_logs
+*internal*
+guided-diffusion
+log/*
+ldit_checkpoints/*
+data
+checkpoints/
+__pycache__/

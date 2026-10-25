@@ -1,0 +1,31 @@
+__pycache__/
+.log/
+checkpoints/
+checkpoints
+*checkpoint*/
+.data/
+comparison_plots/
+diffusion_comparison_plots/
+diffusion_cond_and_uncond_comparison/
+diffusion_spectrum/
+diffusion_spectrum_comp_cond_uncond/
+log/
+logs-rb-subspace/
+misc_data/
+spectrum_comp_all/
+spectrum_comp_db_pretrained_and_disc_finetuned/
+archive/
+figs/
+freq_analysis/
+freq_analysis/*
+*checkpoint*/
+*.png
+# outputs / scratch (added 2026-09-30)
+logs/
+launch_logs/
+cmp_vis/
+*_cmp_vis/
+debug_out.txt
+/data
+# embedded third-party repo with its own .git
+Diffusion-Models-are-Robust-Pretrainers/
